@@ -43,7 +43,7 @@ form .display input{
     flex: 1;
     /* this makes it full width */
     font-size: 35px;
-    box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.1), 3px 3px 15px rgba(0, 0, 0, 0.2) inset;
+    box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.1) inset, 3px 3px 15px rgba(0, 0, 0, 0.2) inset;
     /* Inset puts the shadow inside */
     background: #e3f9ff;
     color: green;
